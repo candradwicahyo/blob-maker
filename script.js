@@ -22,7 +22,7 @@ window.onload = () => {
   function sweetalert(text) {
     return swal.fire ({
       icon: 'success',
-      title: 'sucvess',
+      title: 'success',
       text: text
     });
   }
